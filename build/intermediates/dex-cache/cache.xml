@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/g-2015/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/RealmSample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-40974cdb1f203ce50da5bd32b0301c3054ac5519.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.79.1/3a40cb80a7f1a2963fbddbb7d7e79e7e64ccceda/realm-android-0.79.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3a40cb80a7f1a2963fbddbb7d7e79e7e64ccceda">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/RealmSample/app/build/intermediates/pre-dexed/debug/realm-android-0.79.1-76329493cb50fdbf6e3db43cef6805e33f3a46f5.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/Documents/AndroidApp/RealmSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/RealmSample/app/build/intermediates/pre-dexed/debug/classes-1306896334afe58a43b39923296466c3119ed84d.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/Documents/AndroidApp/RealmSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/RealmSample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-26ba7b1049fce484381f74458424b9334ac7f5d4.jar" />
+    </item>
+    <item
+        jar="/Users/g-2015/Documents/AndroidApp/RealmSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/g-2015/Documents/AndroidApp/RealmSample/app/build/intermediates/pre-dexed/debug/classes-317a084a4f9bec5fae3b74f8d03d2dc1e5c14aea.jar" />
+    </item>
+
+</items>
